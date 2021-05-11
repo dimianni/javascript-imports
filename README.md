@@ -1,1 +1,1 @@
-# Overview of JavaScript imports
+# Overview of ES6 imports
