@@ -1,1 +1,1 @@
-# Overview of javascript imports
+# Overview of JavaScript imports
