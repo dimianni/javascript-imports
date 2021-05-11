@@ -1,0 +1,2 @@
+(()=>{"use strict";const o=function(){return{getName:function(){console.log("Dmytro Anikin")}}},e={name:"Dmytro",surname:"Anikin"};console.log("Heeey!"),console.log(["How","are","you","?"].join(" ")),o().getName(),console.log(e),console.log(e),console.log("It's me!")})();
+//# sourceMappingURL=index.6a2358b4330127377e02.bundle.js.map
